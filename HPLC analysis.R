@@ -1,3 +1,6 @@
+# Github Test
+# 저장 안했음
+
 #Packages installation
 install.packages("readxl")
 installed.packages("stringr")
